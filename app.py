@@ -81,8 +81,8 @@ if st.button("Predecir rendimiento académico"):
 # informacion alumno
 
 st.write("---")
-st.write("Alumno: TU NOMBRE")
-st.write("Código ISIL: TU CÓDIGO")
+st.write("Alumno: Alonso Javier Gaitán Manrique")
+st.write("Código ISIL: 70389863")
 
 st.write("Cuaderno Google Colab:")
-st.write("PEGA_AQUÍ_TU_LINK")
+st.write("https://colab.research.google.com/drive/1q7IYbQzSVu2m5way78BxXynI6-FcQ2Ed?usp=sharing")
