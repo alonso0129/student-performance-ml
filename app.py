@@ -85,4 +85,4 @@ st.write("Alumno: Alonso Javier Gaitán Manrique")
 st.write("Código ISIL: 70389863")
 
 st.write("Cuaderno Google Colab:")
-st.write("https://colab.research.google.com/drive/1q7IYbQzSVu2m5way78BxXynI6-FcQ2Ed?usp=sharing")
+st.write("https://colab.research.google.com/drive/1I-vf1u_PxPaFpq_2TU4w166Lxs1z_c6H?usp=sharing")
