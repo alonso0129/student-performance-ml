@@ -1,0 +1,24 @@
+
+PROMPT UTILIZADO:
+
+Genera una aplicación web en Streamlit utilizando GitHub para predecir si un estudiante aprobará o desaprobará según sus hábitos académicos y comportamiento.
+
+La aplicación debe utilizar dos modelos de Machine Learning almacenados en formato .pkl dentro de una carpeta llamada "modelos":
+
+- logistic_regression_model.pkl
+- random_forest_model.pkl
+
+La interfaz debe estar completamente en español y ser entendible para cualquier usuario.
+
+La aplicación debe permitir ingresar los siguientes datos:
+
+- Tiempo de estudio semanal
+- Número de cursos desaprobados anteriormente
+- Número de faltas
+- Frecuencia de salidas con amigos
+- Consumo de alcohol entre semana
+- Consumo de alcohol fines de semana
+
+También debe permitir seleccionar entre los modelos Logistic Regression y Random Forest.
+
+Finalmente, debe existir un botón llamado "Predecir rendimiento académico" que muestre si el estudiante probablemente aprobará o desaprobará.
